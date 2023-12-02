@@ -1,1 +1,3 @@
-# Gamified-Finance-Platform
+# Gamified Finance Platform
+
+# Introduction
