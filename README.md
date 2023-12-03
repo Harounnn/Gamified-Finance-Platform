@@ -24,6 +24,7 @@ This is where gamification plays its role .
 eg. Player X buy a stock of a startup A in yyyy-mm-dd :
 1. If the next day the stock price is higher or equals the current price it's a win win (Player X and Startup A)
 2. If not than that's a lose lose .
+
 And each day this process is repeated .
 
 ## How exactly the Platform works
